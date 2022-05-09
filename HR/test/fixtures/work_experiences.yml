@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  Title: MyString
+  Source: MyString
+  Years: MyString
+  Description: MyString
+  resume: one
+
+two:
+  Title: MyString
+  Source: MyString
+  Years: MyString
+  Description: MyString
+  resume: two
